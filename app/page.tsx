@@ -159,6 +159,7 @@ const features = [
         <span className="font-mono font-semibold">useIntersectionObserver</span>
         <span className="font-mono font-semibold">useLocalStorage</span>
         <span className="font-mono font-semibold">useScroll</span>
+        <span className="font-mono font-semibold">useDebouncing</span>
         <span className="font-mono font-semibold">nFormatter</span>
         <span className="font-mono font-semibold">capitalize</span>
         <span className="font-mono font-semibold">truncate</span>
